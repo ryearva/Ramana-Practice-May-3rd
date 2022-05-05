@@ -4,8 +4,4 @@ public calss Demo
 	{
 		System.out.println("i am Demo class');
 	}
-public void m1(()
-{
- 
-}
 }
